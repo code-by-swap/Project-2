@@ -1,0 +1,19 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 68a78a1..40a709e 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,2 +1,10 @@[m
+[31m-// New Feature Added[m
+[31m-//Second Feature Added[m
+\ No newline at end of file[m
+[32m+[m[41m  [m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m//Third featue Added[m
+[32m+[m[32m//Forth Feature Added[m
+\ No newline at end of file[m
